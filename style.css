@@ -49,7 +49,7 @@ section{
 }
 /****homE**/
 #home{
-    background: url(mainimage.jpg);
+    background: url(front.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
